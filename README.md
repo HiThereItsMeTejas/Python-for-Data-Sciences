@@ -16,3 +16,11 @@ plt.title("sine wave form")
 # Plot the points using matplotlib 
 plt.plot(x, y) 
 plt.show() 
+
+
+Important Links:
+
+1. Build a Predictive Model in 10 Minutes (using Python) --> https://www.analyticsvidhya.com/blog/2015/09/build-predictive-model-10-minutes-python/#:~:text=Let%E2%80%99s%20start%20putting%20this%20into%20action.%201%20Step,Other%20Variables.%20ID_col%20%3D%20%5B%27REF_NO%20...%20More%20items
+
+
+2. A Comprehensive Guide to Data Exploration -->https://www.analyticsvidhya.com/blog/2016/01/guide-data-exploration/
