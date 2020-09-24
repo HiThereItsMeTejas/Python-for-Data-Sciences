@@ -24,3 +24,5 @@ plt.show()
 
 
 2. A Comprehensive Guide to Data Exploration -->https://www.analyticsvidhya.com/blog/2016/01/guide-data-exploration/
+
+3. Multiple Regression Simple example ---> https://www.w3schools.com/python/python_ml_multiple_regression.asp
